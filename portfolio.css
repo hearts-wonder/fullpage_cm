@@ -1,0 +1,20 @@
+
+/* home */
+
+#home {
+    height: 100vh;
+};
+
+#navbar li {
+    list-style-type: none;
+    text-align: left;
+}
+/* works */
+
+/* contact */
+
+/* footer */
+#footer {
+    margin-top: 50%;
+    margin-bottom: auto;
+}
